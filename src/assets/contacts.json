@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Merissa",
+        "lastName": "Muzafar",
+        "email": "merissamani@mail.fresnostate.edu",
+        "phone": "(650)-686-7626",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Justin",
+        "lastName": "Bieber",
+        "email": "JayBee@gmail.com",
+        "phone": "(202)-222-3333",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Post",
+        "lastName": "Malone",
+        "email": "pmalone@gmail.com",
+        "phone": "(599)-123-4321",
+        "editing": false
+    }
+]
